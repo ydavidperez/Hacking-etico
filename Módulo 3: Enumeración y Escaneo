@@ -1,0 +1,53 @@
+# 🔹 Módulo 3: Enumeración y Escaneo
+
+## 🧠 Descripción
+La enumeración es el proceso de obtener información detallada de un sistema después del reconocimiento inicial.
+
+---
+
+## 🔑 Conceptos clave
+
+### 🔍 Escaneo de red
+Permite identificar:
+- Hosts activos  
+- Puertos abiertos  
+- Servicios en ejecución  
+
+---
+
+### 🚪 Puertos comunes
+
+| Servicio | Puerto |
+|---------|--------|
+| HTTP    | 80     |
+| HTTPS   | 443    |
+| SSH     | 22     |
+| FTP     | 21     |
+
+---
+
+### 🧾 Enumeración
+Obtención de información como:
+- Usuarios  
+- Recursos compartidos  
+- Versiones de software  
+
+**Técnicas:**
+- DNS Enumeration  
+- SMB Enumeration  
+- SNMP Enumeration  
+
+---
+
+### 🛡️ Detección de vulnerabilidades
+Identificación de fallos de seguridad.
+
+**Herramientas:**
+- OpenVAS  
+- Nessus  
+
+---
+
+### ⚠️ Importancia
+- Permite detectar debilidades  
+- Base para la explotación  
